@@ -1,0 +1,13 @@
+Deep Sea Exploration and Technology
+
+The deep sea is the largest habitat on Earth but remains the least explored. Exploring it is difficult because of extreme pressure, darkness and cold, so scientists rely on specialised technology.
+
+A remotely operated vehicle, or ROV, is an underwater robot connected to a ship by a cable and controlled by a pilot. An autonomous underwater vehicle, or AUV, travels on its own along a pre-programmed route. Human occupied submersibles such as Alvin, used since the 1960s, carry scientists to the deep seafloor. In 1960 Jacques Piccard and Don Walsh reached the bottom of the Challenger Deep in the bathyscaphe Trieste.
+
+Sonar, which stands for sound navigation and ranging, uses sound waves to measure depth and map the seafloor. Multibeam echo sounders create detailed maps of the seabed. Satellites measure sea surface height, temperature and ocean colour, which shows phytoplankton levels.
+
+Argo floats are robotic instruments that drift with the currents and dive up to 2,000 metres to measure temperature and salinity. There are about 4,000 active floats worldwide, providing continuous data on the state of the ocean.
+
+Hydrothermal vents, discovered in 1977 near the Galapagos Islands, are cracks in the seafloor where heated, mineral rich water escapes. They support unusual animals such as giant tube worms. Mid ocean ridges, abyssal plains, seamounts and trenches are the main features of the ocean floor. The Mid Atlantic Ridge is part of the longest mountain range on Earth.
+
+India's National Institute of Ocean Technology in Chennai develops deep sea technology, including the Samudrayaan or Matsya 6000 manned submersible project.

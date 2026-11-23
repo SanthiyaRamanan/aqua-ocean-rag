@@ -1,0 +1,4 @@
+# Pure-Python only (no compiled packages), so it works where Application Control blocks DLLs
+Flask==3.0.3
+python-dotenv==1.0.1
+# Optional (compiled, may be blocked): pip install anthropic   -> only for Claude answers

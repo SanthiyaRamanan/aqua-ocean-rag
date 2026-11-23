@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AquaBot - Ocean RAG Chatbot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="app">
+    <header>
+      <div class="logo">&#127754;</div>
+      <div>
+        <h1>AquaBot</h1>
+        <p>Ask anything about oceans &amp; aquatic life</p>
+      </div>
+      <span id="badge" class="badge">...</span>
+    </header>
+
+    <main id="chat" aria-live="polite">
+      <div class="msg bot">
+        <div class="bubble">Hi! I'm AquaBot. I answer from a built-in ocean knowledge base. Try one of the questions below.</div>
+      </div>
+      <div class="chips" id="chips">
+        {% for s in suggestions %}<button class="chip" type="button">{{ s }}</button>{% endfor %}
+      </div>
+    </main>
+
+    <div class="inputbar">
+      <input id="input" type="text" placeholder="Type your ocean question..." autocomplete="off" autofocus>
+      <button id="send" type="button">Send</button>
+    </div>
+  </div>
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
